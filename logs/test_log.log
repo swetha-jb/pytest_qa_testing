@@ -1,0 +1,18 @@
+2024-06-14 12:17:16,916 - WDM - INFO - xdist worker is: gw0
+2024-06-14 12:17:16,917 - WDM - INFO - ====== WebDriver manager ======
+2024-06-14 12:17:16,987 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-14 12:17:17,182 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-14 12:17:17,328 - WDM - INFO - Driver [/home/adcuratio/.wdm/gw0/drivers/chromedriver/linux64/126.0.6478.61/chromedriver-linux64/chromedriver] found in cache
+2024-06-14 12:17:18,458 - root - INFO - Test swag labs order checkout has started
+2024-06-14 12:17:18,743 - root - INFO - Login successful
+2024-06-14 12:17:18,744 - root - INFO - Placing the order and checking out
+2024-06-14 12:17:19,105 - root - INFO - Your order has been dispatched, and will arrive just as fast as the pony can get there!
+2024-06-14 12:18:47,898 - WDM - INFO - xdist worker is: gw0
+2024-06-14 12:18:47,899 - WDM - INFO - ====== WebDriver manager ======
+2024-06-14 12:18:47,970 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-14 12:18:48,144 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-14 12:18:48,334 - WDM - INFO - Driver [/home/adcuratio/.wdm/gw0/drivers/chromedriver/linux64/126.0.6478.61/chromedriver-linux64/chromedriver] found in cache
+2024-06-14 12:18:49,330 - root - INFO - Test swag labs order checkout has started
+2024-06-14 12:18:49,641 - root - INFO - Login successful
+2024-06-14 12:18:49,641 - root - INFO - Placing the order and checking out
+2024-06-14 12:18:50,019 - root - INFO - Your order has been dispatched, and will arrive just as fast as the pony can get there!
