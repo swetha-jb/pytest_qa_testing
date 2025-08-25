@@ -1,2 +1,2 @@
-print("checking inint file.......");     
-hello  
+print("checking inint file......."); 
+hello
