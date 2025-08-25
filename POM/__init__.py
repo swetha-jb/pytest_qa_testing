@@ -1,1 +1,1 @@
-checking config.ini file;
+print("checking.......");    
