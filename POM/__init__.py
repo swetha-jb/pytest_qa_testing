@@ -1,2 +1,2 @@
-checking config.ini file;  
-hello config
+print("checking inint file.......");     
+hello  
