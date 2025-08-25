@@ -1,1 +1,1 @@
-print("checking.......");    
+checking config.ini file;
